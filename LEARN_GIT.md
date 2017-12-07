@@ -1,6 +1,6 @@
 # LEARN GIT
 
-[resolving-a-merge-conflict][https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/]
+[resolving-a-merge-conflict](https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/])
 
 ## Git bash
 

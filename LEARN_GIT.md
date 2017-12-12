@@ -10,6 +10,7 @@
 4. list with more info
 5. make a folder ( make directory )
 6. make a file
+7. make a file
 
 ```
 pwd
@@ -18,6 +19,7 @@ ls
 ls -al
 md
 touch test.txt
+dir > test2.txt
 ```
 
 ## Git command
@@ -47,6 +49,9 @@ First go to the good directory with git bash or whatever you want
 **Get the journal of the commits**
 `git log`
 
+**Show difference between the Original version and the staged area**
+`git diff`
+
 **the git diff --staged**
 ?? need more search about it
 `git diff --staged`
@@ -70,6 +75,10 @@ the branch with * is the current branch
 
 **delete a branch**
 `git branch -d name_of_the_branch`
+
+
+**Change the last commit message**
+`git commit --amend`
 
 
 #### Merging

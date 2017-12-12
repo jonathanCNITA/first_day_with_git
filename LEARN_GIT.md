@@ -1,5 +1,8 @@
 # LEARN GIT
 
+
+Auteur: Jojo
+
 ## Good links
 
 [Git main site](https://git-scm.com/)

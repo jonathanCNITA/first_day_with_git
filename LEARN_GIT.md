@@ -1,8 +1,5 @@
 # LEARN GIT
 
-
-Auteur: Jojo
-
 ## Good links
 
 [Git main site](https://git-scm.com/)
@@ -90,7 +87,7 @@ the branch with * is the current branch
 
 #### Merging
 
-
+ > need to find more ressources
 
 
 
@@ -111,3 +108,5 @@ This command takes a remote name and a repository URL ( 1 time only )
 Our most recent commit is HEAD
 `git diff HEAD`
 
+
+#### It's a  test for the conflict

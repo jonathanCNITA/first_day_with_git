@@ -1,7 +1,7 @@
 # LEARN GIT
 
 
-Auteur: Jojo
+Auteur: John doe ?
 
 ## Good links
 
@@ -88,6 +88,7 @@ the branch with * is the current branch
 `git commit --amend`
 
 
+Changes made on github
 #### Merging
 
 

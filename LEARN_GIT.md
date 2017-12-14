@@ -1,5 +1,6 @@
 # LEARN GIT
 
+
 ## Good links
 
 [Git main site](https://git-scm.com/)
@@ -85,6 +86,7 @@ the branch with * is the current branch
 `git commit --amend`
 
 
+
 #### Merging
 
  > need to find more ressources
@@ -109,4 +111,4 @@ Our most recent commit is HEAD
 `git diff HEAD`
 
 
-#### It's a  test for the conflict
+#### It's a  test for the conflict / resolved

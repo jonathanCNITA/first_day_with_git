@@ -17,3 +17,5 @@ Take care!
 1. Start a new branch from master  
 2. Add a new commit   
 3. New Bullet 
+
+## A new chapter in the history

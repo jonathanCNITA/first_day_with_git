@@ -29,5 +29,5 @@ Take care!
 ## Links
 
 + Website link
-+ portFolio link
++ Portfolio link
 + Social network link

@@ -18,15 +18,20 @@ Take care!
 2. Add a new commit   
 3. New Bullet 
 
+<<<<<<< HEAD
 ## A new chapter in the history
 
 Exsistit autem hoc loco quaedam quaestio subdifficilis, num quando amici novi, digni amicitia, veteribus sint anteponendi, ut equis vetulis teneros anteponere solemus. Indigna homine dubitatio! Non enim debent esse amicitiarum sicut aliarum rerum satietates; veterrima quaeque, ut ea vina, quae vetustatem ferunt, esse debet suavissima; verumque illud est, quod dicitur, multos modios salis simul edendos esse, ut amicitiae munus expletum sit.
 
 ## Contact form
+=======
+## Cotact form
+>>>>>>> cfa8c1c... Add a contact form
 
 + first name
 + last name
 + phone
+<<<<<<< HEAD
 + email
 
 ## Links
@@ -34,3 +39,6 @@ Exsistit autem hoc loco quaedam quaestio subdifficilis, num quando amici novi, d
 + Website link
 + Portfolio link
 + Social network link
+=======
++ email
+>>>>>>> cfa8c1c... Add a contact form

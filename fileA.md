@@ -7,4 +7,7 @@ first commit after merge
 second commit after merge      
 time to make a new rebase     
 And finally try to make a nice rebase      
-Take care!          
+Take care!      
+---
+1. Start a new branch from master  
+2. Add a new commit    

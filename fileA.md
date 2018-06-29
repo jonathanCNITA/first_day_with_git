@@ -25,3 +25,9 @@ Take care!
 + last name
 + phone
 + email
+
+## Links
+
++ Website link
++ portFolio link
++ Social network link

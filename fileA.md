@@ -6,3 +6,4 @@ And now it's time to push on the dev branch
 first commit after merge       
 second commit after merge      
 time to make a new rebase     
+And finally try to make a nice rebase     

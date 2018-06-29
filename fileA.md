@@ -28,3 +28,9 @@ Exsistit autem hoc loco quaedam quaestio subdifficilis, num quando amici novi, d
 + last name
 + phone
 + email
+
+## Links
+
++ Website link
++ Portfolio link
++ Social network link
